@@ -1,2 +1,2 @@
 # Data-science
-Projeto de desenvolvimento
+Projeto de desenvolvimento de I.A
